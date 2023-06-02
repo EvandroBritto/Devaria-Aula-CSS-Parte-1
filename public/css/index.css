@@ -27,8 +27,8 @@ main section abbr {
 }
 
     main .section-azure blockquote {
-        width: 70%
-        margin:auto;
+        width: 70%;
+        margin: auto;
         margin-bottom: 25px;
-        text-align: center;
+        text-align: center;    
     }
